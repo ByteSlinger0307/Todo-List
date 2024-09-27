@@ -78,7 +78,7 @@ if(mainTask.length > 0) {
         );
     });
 }
-
+```
 ## Future Improvements
 
 1. Persist Data: Store tasks in a database or use local storage to persist tasks between sessions
